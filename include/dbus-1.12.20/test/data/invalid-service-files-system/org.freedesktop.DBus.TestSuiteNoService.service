@@ -1,0 +1,4 @@
+[D-BUS Service]
+Exec=/home/pi/Documents/codez/tools/dbus/dbus-1.12.20/test/test-service
+User=anyrandomuser
+
